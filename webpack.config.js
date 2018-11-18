@@ -1,7 +1,7 @@
-const path = require('path');
+const path = require( 'path' );
 
 // webpack.config.js
-module.exports = (env) => {
+module.exports = ( env ) => {
     return {
         mode: env || 'production',
         entry: './src/index.js',
