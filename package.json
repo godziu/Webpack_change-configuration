@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jaruto7/webpackConf.git"
+    "url": "git+https://github.com/godziu/piosenka.git"
   },
   "keywords": [
     "webpack",
     "conf"
   ],
-  "author": "Jarek Kajko",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaruto7/webpackConf/issues"
+    "url": "https://github.com/godziu/piosenka/issues"
   },
-  "homepage": "https://github.com/jaruto7/webpackConf#readme",
+  "homepage": "https://github.com/godziu/piosenka#readme",
   "devDependencies": {
     "@babel/core": "^7.1.0",
     "babel-core": "^6.26.3",
